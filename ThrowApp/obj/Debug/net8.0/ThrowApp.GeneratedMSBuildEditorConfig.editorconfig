@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ThrowApp
+build_property.RootNamespace = ThrowApp
+build_property.ProjectDir = C:\Users\Bartosz\source\repos\ThrowApp\ThrowApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Bartosz\source\repos\ThrowApp\ThrowApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/DiscusThrows/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3VzVGhyb3dzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/DiscusThrows/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3VzVGhyb3dzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/DiscusThrows/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3VzVGhyb3dzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/DiscusThrows/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3VzVGhyb3dzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/DiscusThrows/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3VzVGhyb3dzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/DiscusThrows/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY3VzVGhyb3dzXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/HammerThrows/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFtbWVyVGhyb3dzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/HammerThrows/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFtbWVyVGhyb3dzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/HammerThrows/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFtbWVyVGhyb3dzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/HammerThrows/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFtbWVyVGhyb3dzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/HammerThrows/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFtbWVyVGhyb3dzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/HammerThrows/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFtbWVyVGhyb3dzXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/JavelinThrows/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmF2ZWxpblRocm93c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/JavelinThrows/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmF2ZWxpblRocm93c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/JavelinThrows/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmF2ZWxpblRocm93c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/JavelinThrows/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmF2ZWxpblRocm93c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/JavelinThrows/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmF2ZWxpblRocm93c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/JavelinThrows/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSmF2ZWxpblRocm93c1xTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/ShotPuts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvdFB1dHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/ShotPuts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvdFB1dHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/ShotPuts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvdFB1dHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/ShotPuts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvdFB1dHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/ShotPuts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvdFB1dHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/ShotPuts/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvdFB1dHNcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/source/repos/ThrowApp/ThrowApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x0n4nojhrm
